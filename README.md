@@ -1,5 +1,11 @@
 # SoftwareEngineeringProject
 
+## Project Repository Configure
+```
+📁 root/
+├── 📁 document/          # 문서 및 관련 자료 보관 폴더
+└── 📄 README.md          # Project description
+```
 ## 초기 세팅
 ### 1. git fork
 ![image](https://github.com/user-attachments/assets/80081f90-afcd-4a4a-87ee-c5b01a6039a7)
